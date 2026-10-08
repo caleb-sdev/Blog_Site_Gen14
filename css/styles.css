@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+/* HERO */
+
+.hero {
+    background-color: #f3e8ff;
+    padding: 100px 20px;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+
+/* IMÁGENES DE LAS TARJETAS */
+
+.card-img-top {
+    height: 250px;
+    object-fit: cover;
+}
+
+
+/* SECCIÓN SOBRE NOSOTROS */
+
+.about-section {
+    background-color: #f8f9fa;
+}
+
+.about-section p {
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* FOOTER */
+
+footer {
+    margin-top: 50px;
+}
